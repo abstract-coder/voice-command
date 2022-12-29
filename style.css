@@ -1,0 +1,16 @@
+body
+{
+	text-align: center;
+	background-color: rgb(217, 235, 252);
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+span
+{
+	font-size: 14px;
+	color: red;
+}
+canvas
+{
+	background: rgb(192, 224, 255);
+	border-radius: 20px;
+}
